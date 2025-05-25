@@ -2,6 +2,10 @@
 
 Este repositorio contiene código en R para extraer automáticamente el tipo de cambio oficial publicado por SUNAT, así como archivos `.csv` con los datos recopilados.
 
+## ⚠️ Importante
+Este repositorio no está afiliado, respaldado ni autorizado por la Superintendencia Nacional de Administración Tributaria del Perú (SUNAT).
+Los datos publicados aquí han sido extraídos automáticamente desde el sitio web oficial de SUNAT con fines educativos, de análisis y transparencia. Aunque se hace el mayor esfuerzo por mantener los datos actualizados y precisos, no se garantiza su exactitud o vigencia. Se recomienda consultar el sitio oficial de SUNAT para información oficial y actualizada.
+
 ## 📦 Requisitos
 
 Instala las librerías necesarias:
